@@ -1,0 +1,6 @@
+{
+  "name": "Electromagnetic Wave Visualizer",
+  "description": "An interactive 3D electromagnetic wave visualization and futuristic landing page explaining the principles of electromagnetism, Maxwell equations, and wave propagation with real-time controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
